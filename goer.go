@@ -1,4 +1,4 @@
-package goer
+package main
 
 import (
 	"fmt"
